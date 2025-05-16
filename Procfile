@@ -1,1 +1,1 @@
-web: gunicorn oldfbve:app
+web: gunicorn main:app
